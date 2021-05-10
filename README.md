@@ -1,4 +1,14 @@
-### Hi there 👋
+:computer: :coffee:
+
+"𝘏𝘛𝘔𝘓 𝘦́ 𝘰 𝘧𝘶𝘵𝘶𝘳𝘰", essa foi a frase que fez eu decidir seguir carreira como desenvolvedor.
+
+Atualmente, estou focado na stack de JavaScript estudando desenvolvimento usando ReactJS.
+
+
+### **Dashboard desenvolvida com ReactJS e TypeScript**
+
+![alt-text](https://camo.githubusercontent.com/4426c83df47d093e3f6ba8abb1220b1a329d8ce0756bf4835bc24be3ed43eeac/68747470733a2f2f692e6962622e636f2f53307043664d642f64617368626f6172642e676966)
+Curso de React
 
 <!--
 **alexferreira1796/alexferreira1796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
