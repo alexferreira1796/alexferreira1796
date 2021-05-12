@@ -2,7 +2,7 @@
 
 "𝘏𝘛𝘔𝘓 𝘦́ 𝘰 𝘧𝘶𝘵𝘶𝘳𝘰", essa foi a frase que fez eu decidir seguir carreira como desenvolvedor.
 
-Atualmente, estou focado na stack de JavaScript estudando desenvolvimento usando ReactJS.
+Atualmente, estou focado na stack de JavaScript estudando desenvolvimento usando ReactJs e NodeJs
 
 
 ### **Dashboard desenvolvido com ReactJS e TypeScript inteiramente componentizado com componentes puros.**
