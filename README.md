@@ -14,7 +14,7 @@ Front-end developer 💻
 ## Tecnologias que utilizo no meu dia a dia
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
-<ul style="list-style: none">
+<ul style="list-style: none;">
     <li>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </li>
