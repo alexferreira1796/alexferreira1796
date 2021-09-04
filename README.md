@@ -1,4 +1,4 @@
-### Olá! Eu sou oAlex Ferreira 💻
+### Olá! Eu sou o Alex Ferreira 💻
 
 Front-end developer
 
