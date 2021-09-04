@@ -9,7 +9,7 @@ Front-end developer
 
 <p>Atualmente, estou focado na stack de JavaScript estudando desenvolvimento usando ReactJs, React Native e NodeJs</p>
 
-<p>💬   Sobre mim: Amo tecnologias, gosto de práticar exercícios físicos, assistir filmes e séries de TV.</p><br>
+<p>💬   Sobre mim: Amo tecnologias, gosto de práticar exercícios físicos, assistir filmes e séries de TV.</p>
 
 ## Tecnologias que utilizo no meu dia a dia
 
