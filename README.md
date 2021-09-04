@@ -1,9 +1,9 @@
-### Olá! Eu sou o Alex Ferreira 💻
+### Olá! Eu sou oAlex Ferreira 💻
 
 Front-end developer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-alex-ferreira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:alex.ferreira1796@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996502085)
 
 <p>"𝘏𝘛𝘔𝘓 𝘦́ 𝘰 𝘧𝘶𝘵𝘶𝘳𝘰", essa foi a frase que fez eu decidir seguir carreira como desenvolvedor.</p>
 
@@ -15,15 +15,33 @@ Front-end developer
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
 <ul style="list-style: none">
-    <li>✔️ HTML5</li>
-    <li>✔️ CSS3</li>
-    <li>✔️ JAVASCRIPT</li>
-    <li>✔️ REACTJS</li>
-    <li>✔️ VUEJS</li>
-    <li>✔️ REACT NATIVE</li>
-    <li>✔️ NODE</li>
-    <li>✔️ MYSQL</li>
-    <li>✔️ POSTGRESQL</li>
+    <li>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">    
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    </li>
+    <li>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    </li>
 </ul>
 </div>
 
