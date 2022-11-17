@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif" />
 
-<h3>Olá! Eu sou o Alex Ferreira ✋</h3><br/>
+<h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
 
 Front-end Developer 💻<br><br>"𝘏𝘛𝘔𝘓 𝘦́ 𝘰 𝘧𝘶𝘵𝘶𝘳𝘰", essa foi a frase que fez eu decidir seguir carreira como desenvolvedor.<br>E para seguir evoluindo na carreira pretendo continuar estudando e exercitando as minhas habilidades.<br /><br />
 
