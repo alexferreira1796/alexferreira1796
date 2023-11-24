@@ -1,9 +1,13 @@
-<img src="https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif" />
+<!--<img src="https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif" />-->
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
+</a>
 
 <h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
 
-Front-end Developer 💻<br><br>"𝘏𝘛𝘔𝘓 𝘦́ 𝘰 𝘧𝘶𝘵𝘶𝘳𝘰", essa foi a frase que fez eu decidir seguir carreira como desenvolvedor.<br>E para seguir evoluindo na carreira pretendo continuar estudando e exercitando as minhas habilidades.<br /><br />
-
+Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
+<br/><br/>
 Mais sobre mim 👇<br />
 
 <a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a>
