@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<div align="left">
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
 </a>
@@ -13,6 +14,8 @@ Sou desenvolvedor web e mobile com foco em criar experiências incríveis para o
 Mais sobre mim 👇<br />
 
 <a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a>
+
+</div>
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexferreiranw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-alex-ferreira) 
