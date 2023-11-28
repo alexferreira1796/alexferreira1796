@@ -1,20 +1,14 @@
-<!--<img src="https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif" />-->
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<div align="left">
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
-</a>
-
-<h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
-
-Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
-<br/><br/>
-Mais sobre mim 👇<br />
-
-<a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a>
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;">
+  <div style="margin-left: 20px;">
+    <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
+    </a>
+    <h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
+    <p>Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.</p>
+    <p>Mais sobre mim 👇<br />
+    <a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a></p>
+  </div>
 </div>
 
 ## 🌐 Redes Sociais:
