@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;"  align="right">
 
-<a href="#">
+<a href="#"  align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
 </a>
 <h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
