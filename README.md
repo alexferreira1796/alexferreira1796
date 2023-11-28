@@ -1,14 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;"  align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
 
-<p align="left">
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
-</a>
-<h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
-<p>Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.</p>
-<p>Mais sobre mim 👇<br />
-      
-<a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a></p>
+<p>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;"  align="right">
+  <h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
+  <p>Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.</p>
+  <p>
+    Mais sobre mim 👇<br />
+    <a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a>
+  </p>
 </p>
 
 ## 🌐 Redes Sociais:
