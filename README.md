@@ -1,15 +1,13 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;">
-  <div style="margin-left: 20px;">
-    <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
-    </a>
-    <h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
-    <p>Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.</p>
-    <p>Mais sobre mim 👇<br />
-    <a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a></p>
-  </div>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;"  align="right">
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=200&color=EDFF00&random=false&width=435&lines=Front-end+Developer" alt="Alexander Ferreira" />
+</a>
+<h3>Olá!<br/> Eu sou o Alex Ferreira ✋</h3>
+<p>Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.</p>
+<p>Mais sobre mim 👇<br />
+      
+<a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a></p>
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexferreiranw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-alex-ferreira) 
