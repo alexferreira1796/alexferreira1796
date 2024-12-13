@@ -6,7 +6,7 @@
   <p>Sou desenvolvedor web e mobile com foco em criar experiências incríveis para os usuários. Minha jornada começou quando ouvi a frase inspiradora "HTML é o futuro", que me levou a escolher carreira de desenvolvedor. Desde então, tenho mergulhado de cabeça no mundo da programação, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.</p>
   <p>
     Mais sobre mim 👇<br />
-    <a href="https://bit.ly/MyProjectsDev" target="_blank">Ver portfólio</a>
+    <a href="https://bit.ly/portfolio-alex" target="_blank">Ver portfólio</a>
   </p>
 </p>
 
